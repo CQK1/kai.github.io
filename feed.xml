@@ -1,53 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Kai&#x27;s first web</title>
+    <title>网站再测试</title>
     <link href="https://kai.github.io/feed.xml" rel="self" />
     <link href="https://kai.github.io" />
-    <updated>2024-07-20T14:21:46-06:00</updated>
+    <updated>1969-12-31T17:00:00-07:00</updated>
     <author>
         <name>CQK1</name>
     </author>
     <id>https://kai.github.io</id>
 
-    <entry>
-        <title>测试blog</title>
-        <author>
-            <name>CQK1</name>
-        </author>
-        <link href="https://kai.github.io/ce-shi-blog.html"/>
-        <id>https://kai.github.io/ce-shi-blog.html</id>
-            <category term="A new tag"/>
-
-        <updated>2024-07-20T14:21:46-06:00</updated>
-            <summary>
-                <![CDATA[
-                    测试。。。
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>测试。。。</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Welcome my friend</title>
-        <author>
-            <name>CQK1</name>
-        </author>
-        <link href="https://kai.github.io/welcome-my-friend.html"/>
-        <id>https://kai.github.io/welcome-my-friend.html</id>
-
-        <updated>2024-07-19T15:59:58-06:00</updated>
-            <summary>
-                <![CDATA[
-                    Hello world
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Hello world</p>
-            ]]>
-        </content>
-    </entry>
 </feed>
