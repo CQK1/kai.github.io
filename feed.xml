@@ -3,10 +3,30 @@
     <title>网站再测试</title>
     <link href="https://kai.github.io/feed.xml" rel="self" />
     <link href="https://kai.github.io" />
-    <updated>1969-12-31T17:00:00-07:00</updated>
+    <updated>2024-07-20T14:25:44-06:00</updated>
     <author>
         <name>CQK1</name>
     </author>
     <id>https://kai.github.io</id>
 
+    <entry>
+        <title>没有octocat</title>
+        <author>
+            <name>CQK1</name>
+        </author>
+        <link href="https://kai.github.io/mei-you-octocat.html"/>
+        <id>https://kai.github.io/mei-you-octocat.html</id>
+
+        <updated>2024-07-20T14:25:44-06:00</updated>
+            <summary>
+                <![CDATA[
+                    111
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>111</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
