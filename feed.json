@@ -1,0 +1,42 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Kai&#x27;s first web",
+    "description": "",
+    "home_page_url": "https://kai.github.io",
+    "feed_url": "https://kai.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "CQK1"
+    },
+    "items": [
+        {
+            "id": "https://kai.github.io/ce-shi-blog.html",
+            "url": "https://kai.github.io/ce-shi-blog.html",
+            "title": "测试blog",
+            "summary": "测试。。。",
+            "content_html": "<p>测试。。。</p>",
+            "author": {
+                "name": "CQK1"
+            },
+            "tags": [
+                   "A new tag"
+            ],
+            "date_published": "2024-07-20T14:21:46-06:00",
+            "date_modified": "2024-07-20T14:21:46-06:00"
+        },
+        {
+            "id": "https://kai.github.io/welcome-my-friend.html",
+            "url": "https://kai.github.io/welcome-my-friend.html",
+            "title": "Welcome my friend",
+            "summary": "Hello world",
+            "content_html": "<p>Hello world</p>",
+            "author": {
+                "name": "CQK1"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-07-19T15:59:58-06:00",
+            "date_modified": "2024-07-19T16:03:58-06:00"
+        }
+    ]
+}
